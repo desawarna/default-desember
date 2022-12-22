@@ -143,7 +143,7 @@
         </div>
         <hr>
         <div class="flex font-thin text-sm">
-            <p class="flex-1">&copy; <?php echo date('Y'); ?> &mdash; Senayan Developer Community</p>
+            <p class="flex-1">&copy; <?php echo date('Y'); ?> &mdash; Senayan Developer Community | Theme Modified by <a href="https://api.whatsapp.com/send?phone=628999521177&text=Assalamualaikum%20%F0%9F%98%81%20tadi%20saya%20baca%20*SLiMS%20Kudus%20Web%20ID*%20mau%20mengonlinekan%20SLiMS.%20Kenalan%20nama%20saya">Zaemakhrus</a></p>
             <div class="flex-1 text-right text-grey"><?= __('Powered by '); ?><code>SLiMS</code></div>
         </div>
     </div>

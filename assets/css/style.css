@@ -982,3 +982,5 @@ img.not-available {
 .lead,.text-white, dt { font-family: 'IndieFlower';}
 .navbar { font-family: 'IndieFlower'; font-weight: bold;}
 .green {background: #032d00; color: #fff;}
+.green a {color: #ccc}
+.green a:hover {color: #fff}
